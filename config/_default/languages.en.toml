@@ -17,7 +17,7 @@ title = "Jacey Breinburg"
 [params.author]
 name = "Jacey Breinburg"
 email = "jaybreinburg@gmail.com"
-# image = "profile_picture.png"
+ image = "profile_picture.png"
 imageQuality = 96
 headline = "Hello! I am a student in Software Engineering, using this website to further improve and share my work."
 # bio = "A little bit about you"

@@ -1,13 +1,11 @@
 ---
-title: "BENS Consultancy"
+title: "BENS Consultancy, Zevenaar, Netherlands"
 date: '2026-07-02'
 ---
 
 <div class="experience" style="display:flex; align-items:flex-start; gap:2rem; margin-top:1rem;">
 
 <div class="experience-text" style="flex:1; min-width:0;">
-
-# BENS Consultancy, Zevenaar, Netherlands
 
 ## Position
 - Software Engineer

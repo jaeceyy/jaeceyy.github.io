@@ -20,6 +20,11 @@
   pageRef = "blog"
   weight = 20
 
+[[main]]
+  name = "Internships"
+  pageRef = "internships"
+  weight = 20
+
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
